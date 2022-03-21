@@ -5,7 +5,7 @@ Great Cormorant
 Gray Heron
 Eurasian Magpie
 Eurasian Jackdaw
-Rook
+Rook (bird)
 Hooded Crow
 Calandra Lark
 Eurasian Skylark
@@ -110,11 +110,11 @@ Fire-fronted Serin
 Red-wattled Lapwing
 Spotted Redshank
 Black-winged Kite
-Imperial Eagle
+Eastern Imperial Eagle
 Eurasian Marsh-Harrier
 Long-legged Buzzard
 Pied Kingfisher
-Merlin
+Merlin (bird)
 European Stonechat
 Isabelline Wheatear
 Northern Lapwing
@@ -140,7 +140,7 @@ Common Crane
 Middle Spotted Woodpecker
 Gray-headed Woodpecker
 Blue Rock-Thrush
-Chukar
+Chukar partridge
 Eurasian Green Woodpecker
 Mute Swan
 Water Rail
@@ -272,7 +272,6 @@ Booted Eagle
 Whiskered Tern
 Dead Sea Sparrow
 Zitting Cisticola
-Herring Gull
 Common Goldeneye
 Whinchat
 Common Merganser
@@ -286,7 +285,7 @@ Eurasian Wryneck
 Purple Heron
 Red-backed Shrike
 Citrine Wagtail
-Whimbrel
+Eurasian whimbrel
 Lesser White-fronted Goose
 Blyth's Pipit
 Snow Bunting
