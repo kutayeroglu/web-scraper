@@ -5,3 +5,6 @@ Outputs corresponding wikipedia page links for the birds of Istanbul to an excel
 
 ##### _download-images_
 Downloads images from wikipedia given the list of names. This specific implementation uses the birds of Istanbul list to download their corresponding pictures.
+
+##### _get-wiki-descriptions_
+Scrapes first paragraph from corresponding wikipedia page given the list of names.
